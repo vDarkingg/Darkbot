@@ -30,8 +30,8 @@ CLIENT_ID=your-client-id
 4. Click **"Reset Token"** and confirm.
    You’ll now need to **authenticate using 2FA** (If you have 2FA enabled) to get your bot token.
 5. Once shown, copy the token immediately — it won't be shown again.
-6. Paste the token into your `.env` file as `DISCORD_TOKEN`.
-7. In the **"General Information"** tab, copy the **Application ID** and use it as `CLIENT_ID`.
+6. Paste the token into your `.env` file by changing the `your-bot-token` to your actual token that got generated.
+7. In the **"General Information"** tab, copy the **Application ID** and change the `your-client-id` to your actual application id.
 
 > ⚠️ **Important:** Never share your bot token publicly.
 
