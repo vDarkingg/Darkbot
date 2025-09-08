@@ -1,8 +1,27 @@
 {
+  "name": "tierlist-queue-waitlist-bot",
+  "version": "1.0.0",
+  "description": "Mctiers like tierlist bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "dependencies": {
-    "discord.js": "^14.21.0",
+    "discord.js": "^14.22.1",
     "dotenv": "^16.6.1",
     "fs": "^0.0.1-security",
     "path": "^0.12.7"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vDarkingg/Darkbot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vDarkingg/Darkbot/issues"
+  },
+  "homepage": "https://github.com/vDarkingg/Darkbot#readme"
 }
