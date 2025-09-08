@@ -1,0 +1,90 @@
+{
+  "1379910730601463858": {
+    "roles": {
+      "tester": "1404623148753748131",
+      "admin": null,
+      "cooldown": null
+    },
+    "channels": {
+      "categories": {
+        "default": "1413368307272388668",
+        "crystal_pvp": null,
+        "axe_pvp": null,
+        "diamond_pot": null,
+        "netherite_pot": null,
+        "uhc": null,
+        "vanilla": null,
+        "sword": "1413368307272388668",
+        "pot": null,
+        "smp": null,
+        "axe": null
+      },
+      "waitlist": "1414432094477881396",
+      "regions": {
+        "as": {
+          "queue": null
+        },
+        "eu": {
+          "queue": null
+        },
+        "na": {
+          "queue": null
+        }
+      },
+      "gamemodes": {
+        "crystal_pvp": {
+          "queues": []
+        },
+        "axe_pvp": {
+          "queues": []
+        },
+        "diamond_pot": {
+          "queues": []
+        },
+        "netherite_pot": {
+          "queues": []
+        },
+        "uhc": {
+          "queues": []
+        },
+        "vanilla": {
+          "queues": []
+        },
+        "sword": {
+          "queues": [
+            {
+              "channelId": "1380244214373158973",
+              "region": "na"
+            },
+            {
+              "channelId": "1414406875872759880",
+              "region": "na"
+            },
+            {
+              "channelId": "1414432094477881396",
+              "region": "na"
+            },
+            {
+              "channelId": "1414436666818433087",
+              "region": "na"
+            }
+          ]
+        },
+        "pot": {
+          "queues": []
+        },
+        "smp": {
+          "queues": []
+        },
+        "axe": {
+          "queues": []
+        }
+      }
+    },
+    "server": {
+      "name": "𝐈𝐆𝐍𝐀𝐑𝐈𝐗 | ᴄʟᴀɴ",
+      "icon": "https://cdn.discordapp.com/icons/1379910730601463858/a_4b297782c91f8307811aa59ec66bd77b.gif"
+    },
+    "setupComplete": true
+  }
+}
